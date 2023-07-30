@@ -2,18 +2,6 @@
 
 #  Description: Play a game of poker!
 
-#  Student's Name: Natalie Nguyen
-
-#  Student's UT EID: ntn687
-
-#  Partner's Name: Ethan Harris
-
-#  Partner's UT EID: ejh2947
-
-#  Course Name: CS 313E 
-
-#  Unique Number: 52038
-
 #  Date Created: 6 February, 2023
 
 #  Date Last Modified: 12 February, 2023
